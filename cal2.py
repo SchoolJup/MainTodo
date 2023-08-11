@@ -21,6 +21,7 @@ class Calculator(tk.Frame):
         self.master.config(relief="flat")
         self.master.config(bd=2)
         self.master.config(width=20)
+    
            
 
 
@@ -29,8 +30,12 @@ class Calculator(tk.Frame):
         self.display.pack(side="top")
 
         self.buttons = []
+        
         for text in ["1", "2", "3", "+", "4", "5", "6", "-", "7", "8", "9", "*", ".", "0", "=", "/"]:
             button = tk.Button(self, text=text, command=lambda text=text: self.buttonPressed(text))
+            button.config(width=5)
+            font=("Arial", 18, "bold")
+            button.config(height=5)
             button.pack(side="left")
             self.buttons.append(button)
 

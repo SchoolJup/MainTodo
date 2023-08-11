@@ -1,5 +1,7 @@
 #tkinter solution fron gpt edge sidebar
 #needs re layout and colouring
+#needs to be able to clear
+#buttons bigger
 import tkinter as tk
 
 class Calculator(tk.Frame):

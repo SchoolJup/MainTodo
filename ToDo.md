@@ -13,6 +13,8 @@ created: 2023-07-13 12:56:03Z
 > - wix account version  or squarespace?
 > - PCAP course  
 > - Python GUI [pretty TKinter?]
+> - Svelte kit
+> 
 
 
 >  [Markdown reference](https://www.markdownguide.org/basic-syntax/)

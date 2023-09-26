@@ -14,7 +14,7 @@ created: 2023-07-13 12:56:03Z
 > - PCAP course  
 > - Python GUI [pretty TKinter?]
 > - Svelte kit
-> 
+> - Projects - bmi calc - weather app - calculator 
 
 ## School ##
 > - IEP lower

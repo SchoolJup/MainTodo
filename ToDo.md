@@ -17,7 +17,7 @@ created: 2023-07-13 12:56:03Z
 > - Projects - bmi calc - weather app - calculator 
 
 ## School ##
-> - IEP lower
+> - PEP lower
 > - Annual reviews
 > - Book marking stickers and journey
 > - Exam entries and prospective

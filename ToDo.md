@@ -16,8 +16,7 @@ created: 2023-07-13 12:56:03Z
 > - Svelte kit
 > - Projects - bmi calc - weather app - calculator 
 
-
-<img src="https://assets.hongkiat.com/uploads/to-do-lists-by-hand/bj-stat-here-index.jpg"/>
+<img src="SuperIntelligence-intro-pic (1).jpg" width="200" height="200" position=centre/>
 
 ## School ##
 > - PEP lower

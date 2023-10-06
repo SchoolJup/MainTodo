@@ -16,12 +16,13 @@ created: 2023-07-13 12:56:03Z
 > - Svelte kit
 > - Projects - bmi calc - weather app - calculator 
 
+! (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hongkiat.com%2Fblog%2Fto-do-lists-by-hand%2F&psig=AOvVaw061JPcDzdUZk2iDF_jz6XL&ust=1696674497735000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCMDS4oWb4YEDFQAAAAAdAAAAABAD)
+
 ## School ##
 > - PEP lower
-> - Annual reviews
+> - Annual reviews``
 > - Book marking stickers and journey
 > - Exam entries and prospective
-> - IEP cameron risk assesment Cameron (by MON 2nd)
 > - Online course HR
 > - Exam report
 

@@ -25,6 +25,12 @@ created: 2023-07-13 12:56:03Z
 > - Exam entries and prospective
 > - Online course HR
 > - Exam report
+> - New Peps
+> - new behaviour policy read and abide
+> - Year 11 marking (key docs first pencil)
+> - Post HT planning - esp year 9 (Ks3)
+> - Post HT year 10 both courses
+> - read rupert pre annual review docs
 
 
 >  [Markdown reference](https://www.markdownguide.org/basic-syntax/)

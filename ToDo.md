@@ -31,6 +31,8 @@ created: 2023-07-13 12:56:03Z
 > - Post HT planning - esp year 9 (Ks3)
 > - Post HT year 10 both courses
 > - read rupert pre annual review docs
+>- Order cost new machines and monitors
+> - USB order removable cap not loose able big, and new motherboard and coolers for comp builds
 
 
 >  [Markdown reference](https://www.markdownguide.org/basic-syntax/)

@@ -22,9 +22,7 @@ created: 2023-07-13 12:56:03Z
 > - PEP lower
 > - Annual reviews``
 > - Book marking stickers and journey
-> - Exam entries and prospective
 > - Online course HR
-> - Exam report
 > - New Peps
 > - new behaviour policy read and abide
 > - Year 11 marking (key docs first pencil)
@@ -33,6 +31,7 @@ created: 2023-07-13 12:56:03Z
 > - read rupert pre annual review docs
 >- Order cost new machines and monitors
 > - USB order removable cap not loose able big, and new motherboard and coolers for comp builds
+> - New COT expectations and targets on SIS
 
 
 >  [Markdown reference](https://www.markdownguide.org/basic-syntax/)
